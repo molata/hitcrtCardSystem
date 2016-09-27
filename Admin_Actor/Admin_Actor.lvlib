@@ -8,5 +8,12 @@
 		<Item Name="g_setting.vi" Type="VI" URL="../Setting/g_setting.vi"/>
 	</Item>
 	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Model" Type="Folder">
+		<Item Name="ListSelection.lvclass" Type="LVClass" URL="../ListSelection.lvclass"/>
+	</Item>
+	<Item Name="Panel" Type="Folder">
+		<Item Name="Handle ExcuseNotes.vi" Type="VI" URL="../Panels/Handle ExcuseNotes.vi"/>
+	</Item>
 	<Item Name="Admin_Actor.lvclass" Type="LVClass" URL="../Admin_Actor/Admin_Actor.lvclass"/>
+	<Item Name="ExcuseNotesHandler.lvclass" Type="LVClass" URL="../ExcuseNotes/ExcuseNotesHandler.lvclass"/>
 </Library>
