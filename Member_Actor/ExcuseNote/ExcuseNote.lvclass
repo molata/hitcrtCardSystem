@@ -83,7 +83,7 @@
 	<Item Name="UnitTest" Type="Folder">
 		<Item Name="Assert ExcuseNote.lvtest" Type="TestItem" URL="../UnitTest/Assert ExcuseNote.lvtest">
 			<Property Name="utf.test.bind" Type="Str">Member_Actor.lvlib:ExcuseNote.lvclass:Assert ExcuseNote.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">9AACE101-449F-E89B-2C25-91039B6E19DB</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">198792B2-815E-8E1A-5F7B-605AF6F9605C</Property>
 		</Item>
 		<Item Name="Assert ExcuseNote.vi" Type="VI" URL="../UnitTest/Assert ExcuseNote.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"A!!!!!A!%!!!!6!$Q!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$!!"Y!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!"!!!!!!</Property>

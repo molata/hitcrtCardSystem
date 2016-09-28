@@ -9,7 +9,10 @@
 	</Item>
 	<Item Name="Messages for this Actor" Type="Folder"/>
 	<Item Name="Model" Type="Folder">
-		<Item Name="ListSelection.lvclass" Type="LVClass" URL="../ListSelection.lvclass"/>
+		<Item Name="CalAttendance.lvclass" Type="LVClass" URL="../CalAttendance/CalAttendance.lvclass"/>
+		<Item Name="ExcelReader.lvclass" Type="LVClass" URL="../Models/ExcelReader/ExcelReader.lvclass"/>
+		<Item Name="ListSelection.lvclass" Type="LVClass" URL="../Models/ListSelection/ListSelection.lvclass"/>
+		<Item Name="MemberAttendance.lvclass" Type="LVClass" URL="../Models/MemberAttendance/MemberAttendance.lvclass"/>
 	</Item>
 	<Item Name="Panel" Type="Folder">
 		<Item Name="Handle ExcuseNotes.vi" Type="VI" URL="../Panels/Handle ExcuseNotes.vi"/>
