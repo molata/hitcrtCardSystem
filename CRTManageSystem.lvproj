@@ -46,6 +46,11 @@
 			<Item Name="Database.lvclass" Type="LVClass" URL="../API/_Database/Database.lvclass"/>
 			<Item Name="ExceelDate.lvclass" Type="LVClass" URL="../Database/Date_Excel/ExceelDate.lvclass"/>
 		</Item>
+		<Item Name="Controllers" Type="Folder">
+			<Item Name="Admin_Actor.lvlib" Type="Library" URL="../Admin_Actor/Admin_Actor.lvlib"/>
+			<Item Name="Member_Actor.lvlib" Type="Library" URL="../Member_Actor/Member_Actor.lvlib"/>
+			<Item Name="User_Actor.lvlib" Type="Library" URL="../User_Actor/User_Actor.lvlib"/>
+		</Item>
 		<Item Name="Documents" Type="Folder">
 			<Item Name="CRTDatabase.accdb" Type="Document" URL="../Database/CRTDatabase.accdb"/>
 			<Item Name="CRTTimeTable.xlsx" Type="Document" URL="../Database/CRTTimeTable.xlsx"/>
@@ -62,9 +67,6 @@
 			<Item Name="Get 2D Array Element.vi" Type="VI" URL="../User.lib/Get 2D Array Element.vi"/>
 		</Item>
 		<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
-		<Item Name="Admin_Actor.lvlib" Type="Library" URL="../Admin_Actor/Admin_Actor.lvlib"/>
-		<Item Name="Member_Actor.lvlib" Type="Library" URL="../Member_Actor/Member_Actor.lvlib"/>
-		<Item Name="User_Actor.lvlib" Type="Library" URL="../User_Actor/User_Actor.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Input Data.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Acquire Input Data.vi"/>
