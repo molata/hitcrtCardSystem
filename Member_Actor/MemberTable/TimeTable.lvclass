@@ -31,7 +31,7 @@
 	</Item>
 	<Item Name="Data Accessors" Type="Folder"/>
 	<Item Name="Public Methods" Type="Folder">
-		<Item Name="Check If Has Course.vi" Type="VI" URL="../Public Methods/Check If Has Course.vi">
+		<Item Name="Convert Courses To 2D Array.vi" Type="VI" URL="../Public Methods/Convert Courses To 2D Array.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;X!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!J!-0````]":A!71%!!!P``````````!!5&amp;18*S98E!0E"Q!"Y!!#93476N9G6S8U&amp;D&gt;'^S,GRW&lt;'FC%62J&lt;76597*M:3ZM&gt;G.M98.T!!!.6'FN:62B9GRF)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"&amp;!!Q!+1X6S6W6F;SAQ+1!!0E"Q!"Y!!#93476N9G6S8U&amp;D&gt;'^S,GRW&lt;'FC%62J&lt;76597*M:3ZM&gt;G.M98.T!!!-6'FN:62B9GRF)'FO!!"B!0!!$!!$!!1!"A!(!!1!"!!%!!1!#!!%!!E!#A-!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!)!!!!#!!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>

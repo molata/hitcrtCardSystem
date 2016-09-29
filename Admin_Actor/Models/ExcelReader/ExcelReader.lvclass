@@ -63,6 +63,17 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 		</Item>
 	</Item>
+	<Item Name="Public Methods" Type="Folder">
+		<Item Name="Check AttendanceTable If Correct.vi" Type="VI" URL="../Public Methods/Check AttendanceTable If Correct.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'0!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!""!)1J';81I2G&amp;M=W5J!!"!1(!!(A!!*R&amp;":'VJ&lt;F^"9X2P=CZM&gt;GRJ9B.&amp;?'.F&lt;&amp;*F972F=CZM&gt;G.M98.T!!^&amp;?'.F&lt;&amp;*F972F=C"P&gt;81!%5!$!!J$&gt;8*8:76L+$!J!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!":!-0````].5WBF:82/97VF+#)C+1!/1$,`````"&amp;"B&gt;'A!!%"!=!!?!!!H%5&amp;E&lt;7FO8U&amp;D&gt;'^S,GRW&lt;'FC%U6Y9W6M5G6B:'6S,GRW9WRB=X-!$E6Y9W6M5G6B:'6S)'FO!!"B!0!!$!!$!!1!"1!'!!1!"!!(!!1!#!!*!!I!#Q-!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!A!!!!!!!!!#A!!!B!!!!!1!!!!#!!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		</Item>
+	</Item>
 	<Item Name="UnitTest" Type="Folder">
 		<Item Name="Assert ExcelReader Core.vi" Type="VI" URL="../UnitTest/Assert ExcelReader Core.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"A!!!!!A!%!!!!6!$Q!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$!!"Y!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!"!!!!!!</Property>
