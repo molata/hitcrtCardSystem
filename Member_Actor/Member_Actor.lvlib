@@ -13,13 +13,5 @@
 		<Item Name="Information_Panel.vi" Type="VI" URL="../SubPanel/Information_Panel.vi"/>
 		<Item Name="TimeTable_Panel.vi" Type="VI" URL="../SubPanel/TimeTable_Panel.vi"/>
 	</Item>
-	<Item Name="Implements" Type="Folder">
-		<Item Name="Information.lvclass" Type="LVClass" URL="../MemberInfo/Information.lvclass"/>
-		<Item Name="TimeTable.lvclass" Type="LVClass" URL="../MemberTable/TimeTable.lvclass"/>
-		<Item Name="ExcuseNote.lvclass" Type="LVClass" URL="../ExcuseNote/ExcuseNote.lvclass"/>
-	</Item>
-	<Item Name="SupperClass" Type="Folder">
-		<Item Name="MemberPanel.lvclass" Type="LVClass" URL="../MemberPanel/MemberPanel.lvclass"/>
-	</Item>
 	<Item Name="Member_Actor.lvclass" Type="LVClass" URL="../Member_Actor/Member_Actor.lvclass"/>
 </Library>

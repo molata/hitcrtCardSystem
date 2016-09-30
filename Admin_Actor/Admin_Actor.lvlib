@@ -7,10 +7,6 @@
 	<Item Name="g_setting" Type="Folder">
 		<Item Name="g_setting.vi" Type="VI" URL="../Setting/g_setting.vi"/>
 	</Item>
-	<Item Name="Implements" Type="Folder">
-		<Item Name="CalAttendance.lvclass" Type="LVClass" URL="../CalAttendance/CalAttendance.lvclass"/>
-		<Item Name="ExcuseNotesHandler.lvclass" Type="LVClass" URL="../ExcuseNotes/ExcuseNotesHandler.lvclass"/>
-	</Item>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="SwitchOption Msg.lvclass" Type="LVClass" URL="../Admin_Actor Messages/SwitchOption Msg/SwitchOption Msg.lvclass"/>
 	</Item>

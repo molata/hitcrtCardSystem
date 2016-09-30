@@ -46,6 +46,21 @@
 			<Item Name="Database.lvclass" Type="LVClass" URL="../API/_Database/Database.lvclass"/>
 			<Item Name="ExceelDate.lvclass" Type="LVClass" URL="../Database/Date_Excel/ExceelDate.lvclass"/>
 		</Item>
+		<Item Name="Application" Type="Folder">
+			<Item Name="For Admin" Type="Folder">
+				<Item Name="CalAttendance.lvclass" Type="LVClass" URL="../Admin_Actor/CalAttendance/CalAttendance.lvclass"/>
+				<Item Name="ExcuseNotesHandler.lvclass" Type="LVClass" URL="../Admin_Actor/ExcuseNotes/ExcuseNotesHandler.lvclass"/>
+			</Item>
+			<Item Name="For Member" Type="Folder">
+				<Item Name="ExcuseNote.lvclass" Type="LVClass" URL="../Member_Actor/ExcuseNote/ExcuseNote.lvclass"/>
+				<Item Name="Information.lvclass" Type="LVClass" URL="../Member_Actor/MemberInfo/Information.lvclass"/>
+				<Item Name="TimeTable.lvclass" Type="LVClass" URL="../Member_Actor/MemberTable/TimeTable.lvclass"/>
+			</Item>
+			<Item Name="SupperClass" Type="Folder">
+				<Item Name="MemberPanel.lvclass" Type="LVClass" URL="../Member_Actor/MemberPanel/MemberPanel.lvclass"/>
+			</Item>
+			<Item Name="Login.lvclass" Type="LVClass" URL="../Login/Login.lvclass"/>
+		</Item>
 		<Item Name="Controllers" Type="Folder">
 			<Item Name="Admin_Actor.lvlib" Type="Library" URL="../Admin_Actor/Admin_Actor.lvlib"/>
 			<Item Name="Member_Actor.lvlib" Type="Library" URL="../Member_Actor/Member_Actor.lvlib"/>
@@ -67,6 +82,7 @@
 			<Item Name="Get 2D Array Element.vi" Type="VI" URL="../User.lib/Get 2D Array Element.vi"/>
 		</Item>
 		<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
+		<Item Name="Top Level.vi" Type="VI" URL="../Top Level.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Input Data.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Acquire Input Data.vi"/>
