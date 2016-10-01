@@ -4,9 +4,6 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="g_setting" Type="Folder">
-		<Item Name="g_setting.vi" Type="VI" URL="../Setting/g_setting.vi"/>
-	</Item>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="SwitchOption Msg.lvclass" Type="LVClass" URL="../Admin_Actor Messages/SwitchOption Msg/SwitchOption Msg.lvclass"/>
 	</Item>

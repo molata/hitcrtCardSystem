@@ -56,6 +56,9 @@
 				<Item Name="Information.lvclass" Type="LVClass" URL="../Member_Actor/MemberInfo/Information.lvclass"/>
 				<Item Name="TimeTable.lvclass" Type="LVClass" URL="../Member_Actor/MemberTable/TimeTable.lvclass"/>
 			</Item>
+			<Item Name="g_setting" Type="Folder">
+				<Item Name="g_setting.vi" Type="VI" URL="../Admin_Actor/Setting/g_setting.vi"/>
+			</Item>
 			<Item Name="SupperClass" Type="Folder">
 				<Item Name="MemberPanel.lvclass" Type="LVClass" URL="../Member_Actor/MemberPanel/MemberPanel.lvclass"/>
 			</Item>
