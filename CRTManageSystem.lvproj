@@ -74,6 +74,9 @@
 			<Item Name="CRTTimeTable.xlsx" Type="Document" URL="../Database/CRTTimeTable.xlsx"/>
 			<Item Name="考勤报表.xls" Type="Document" URL="../Database/考勤报表.xls"/>
 		</Item>
+		<Item Name="Icon" Type="Folder">
+			<Item Name="Radish_96px_1191349_easyicon.net.ico" Type="Document" URL="../Radish_96px_1191349_easyicon.net.ico"/>
+		</Item>
 		<Item Name="Test" Type="Folder">
 			<Item Name="Assert TimeStamp.vi" Type="VI" URL="../Test/Assert TimeStamp.vi"/>
 			<Item Name="LaunchUserSystem.vi" Type="VI" URL="../Test/LaunchUserSystem.vi"/>
@@ -158,6 +161,51 @@
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 			<Item Name="lvinput.dll" Type="Document" URL="/&lt;resource&gt;/lvinput.dll"/>
 		</Item>
-		<Item Name="Build Specifications" Type="Build"/>
+		<Item Name="Build Specifications" Type="Build">
+			<Item Name="CRTManagement" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{96F7C9DC-8546-438A-BF4F-B3F1BD9CDDD8}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{0EC0C596-AAC7-4654-A29D-2470B0A5F66B}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{85CAC9B5-99D7-486F-BAE9-705E060166D9}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">CRTManagement</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/CRTManagement</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{0F442A79-7AE3-42DC-8D70-63ABADD82374}</Property>
+				<Property Name="Bld_version.minor" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">CRTManagement.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/CRTManagement/CRTManagement.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/CRTManagement/Database</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Icon/Radish_96px_1191349_easyicon.net.ico</Property>
+				<Property Name="Source[0].itemID" Type="Str">{F0C15AC0-C622-49C7-9D1A-77548E439333}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Top Level.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Documents/CRTDatabase.accdb</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/My Computer/Documents/CRTTimeTable.xlsx</Property>
+				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="SourceCount" Type="Int">4</Property>
+				<Property Name="TgtF_companyName" Type="Str">Harbin Institute of Technology</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">CRTManagement</Property>
+				<Property Name="TgtF_internalName" Type="Str">CRTManagement</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright ?2016 Harbin Institute of Technology</Property>
+				<Property Name="TgtF_productName" Type="Str">CRTManagement</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{0C821A24-FAA2-468D-909C-DB4797B488A1}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">CRTManagement.exe</Property>
+			</Item>
+		</Item>
 	</Item>
 </Project>
