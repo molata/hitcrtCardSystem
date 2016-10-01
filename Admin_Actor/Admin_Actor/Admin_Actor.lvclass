@@ -35,7 +35,16 @@
 	</Item>
 	<Item Name="Overriden Methods" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-		<Item Name="PanelFactory.vi" Type="VI" URL="../Public Methods/PanelFactory.vi">
+		<Item Name="Check Admin Identity.vi" Type="VI" URL="../Overriden Methods/Check Admin Identity.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;P!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"R!)2:$;'6D;UFE:7ZU;82ZI[B'97RT:;/J!!"!1(!!(A!!*R&amp;":'VJ&lt;F^"9X2P=CZM&gt;GRJ9B.":'VJ&lt;F^"9X2P=CZM&gt;G.M98.T!!^":'VJ&lt;F^"9X2P=C"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!71$$`````$&amp;6T:8*/97VF+#)C+1!!1%"Q!"Y!!#=2172N;7Z@17.U&lt;X)O&lt;(:M;7)4172N;7Z@17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!/172N;7Z@17.U&lt;X)A;7Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!#!!*!A!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!AA!!!#1!!!!!!%!#A!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
+		</Item>
+		<Item Name="PanelFactory.vi" Type="VI" URL="../Overriden Methods/PanelFactory.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'*!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$2!=!!?!!!6%UVF&lt;7*F=F"B&lt;G6M,GRW9WRB=X-!&amp;%VF&lt;7*F=F"B&lt;G6M+&amp;"S&lt;W2V9X1J!!"!1(!!(A!!*R&amp;":'VJ&lt;F^"9X2P=CZM&gt;GRJ9B.":'VJ&lt;F^"9X2P=CZM&gt;G.M98.T!!^":'VJ&lt;F^"9X2P=C"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!91$$`````$F2I=G6B:%ZB&lt;75I)C)J!!"!1(!!(A!!*R&amp;":'VJ&lt;F^"9X2P=CZM&gt;GRJ9B.":'VJ&lt;F^"9X2P=CZM&gt;G.M98.T!!Z":'VJ&lt;F^"9X2P=C"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!)!!E$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!#%!!!!*!!!!!!!1!+!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -44,7 +53,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082139152</Property>
 		</Item>
-		<Item Name="SwitchOption.vi" Type="VI" URL="../Public Methods/SwitchOption.vi">
+		<Item Name="SwitchOption.vi" Type="VI" URL="../Overriden Methods/SwitchOption.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'P!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%"!=!!?!!!H%5&amp;E&lt;7FO8U&amp;D&gt;'^S,GRW&lt;'FC%U&amp;E&lt;7FO8U&amp;D&gt;'^S,GRW9WRB=X-!$U&amp;E&lt;7FO8U&amp;D&gt;'^S)'^V&gt;!!91(!!#!!!!%%!!!N4&gt;7*197ZF&lt;&amp;*F:A!Q1(!!(A!!&amp;2..:7VC:8*197ZF&lt;#ZM&gt;G.M98.T!""197ZF&lt;#"$&lt;WZU=G^M&lt;'6S!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"*!-P````]*1G&amp;T:3"1982I!"B!-0````]/6'BS:7&amp;E4G&amp;N:3AC)CE!!%"!=!!?!!!H%5&amp;E&lt;7FO8U&amp;D&gt;'^S,GRW&lt;'FC%U&amp;E&lt;7FO8U&amp;D&gt;'^S,GRW9WRB=X-!$E&amp;E&lt;7FO8U&amp;D&gt;'^S)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!'!!=!#!!*!!I!#Q-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!")!!!!1!!!!#A!!!"!!!!!1!!!!EA!!!!!"!!Q!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
